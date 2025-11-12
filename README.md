@@ -69,7 +69,7 @@ Dashboard Design
 
 Data Visualization & Analysis
 
-🔗 Project Link
+🔗 [Files](https://1drv.ms/f/c/ede05ee8b19c3fa2/EvuPwlAMKv5Pu-uJ4pL9tjYB1KNJZ8sy7ArblNqHzCx3Qw)
 
 🌐 View the full project on my portfolio:
 👉 [Global Freelancer Marketplace Dashboard](https://www.manujasprojects.co.uk/global-freelancer-analysis)
