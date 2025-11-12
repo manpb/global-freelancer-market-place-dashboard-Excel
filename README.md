@@ -72,4 +72,4 @@ Data Visualization & Analysis
 🔗 Project Link
 
 🌐 View the full project on my portfolio:
-👉 Global Freelancer Marketplace Dashboard
+👉 [Global Freelancer Marketplace Dashboard](https://www.manujasprojects.co.uk/global-freelancer-analysis)
